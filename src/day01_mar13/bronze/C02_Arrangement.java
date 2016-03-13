@@ -1,4 +1,4 @@
-package day01_mar13;
+package day01_mar13.bronze;
 
 public class C02_Arrangement {
 
